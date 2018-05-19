@@ -2,6 +2,13 @@
   box-sizing: border-box;
 }
 
+@media all and (max-width: 670px)
+
+body {
+   width: 100%;
+}
+
+
 body {
   margin: 0;
   font-family: "Hiragino Kaku Gothic ProN";
